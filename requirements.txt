@@ -1,7 +1,9 @@
 pandas >=0.21.0
-# streamlit-0.65.0-py2.py3-none-any.whl
+flask
+gunicorn
+streamlit-0.65.0-py2.py3-none-any.whl
 # streamlit-0.65.9-py2.py3-none-any.whl # This is Karrie's version
-streamlit-0.65.2-py2.py3-none-any.whl # Karrie's other version
+# streamlit-0.65.2-py2.py3-none-any.whl # Karrie's other version
 # streamlit-0.65.10-py2.py3-none-any.whl # This is my version
 # streamlit-try1.whl
 # streamlit

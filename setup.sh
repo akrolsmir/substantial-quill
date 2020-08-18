@@ -7,7 +7,7 @@ echo "\
 [server]\n\
 headless = true\n\
 enableCORS=false\n\
-port = $PORT\n\
+port = 4321\n\
 [logger]\n\
 level = 'debug'\n\
 " > ~/.streamlit/config.toml
